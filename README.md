@@ -21,7 +21,7 @@ needing a refresh. This replaced the need for the `iframe` tag in many websites.
 Still, there are some specific uses where `iframe` remains valuable. One
 example: embedded maps. Embedded maps are a simple option for websites that need
 a custom map (i.e. contact pages for businesses). An `iframe` is used to contain
-the entire interactive map page within a websites. While using an `iframe`, we
+the entire interactive map page within a websites. While using an `iframe`, wehttps://www.google.com/maps
 do not need to write our own JavaScript and we can incorporate all that
 pre-built functionality neatly.
 
@@ -35,7 +35,7 @@ Before we can get to writing HTML, we need to get a map to embed within an
 iframe.
 
 In your browser, head to
-[https://www.google.com/maps](https://www.google.com/maps) and search for a
+[https://www.google.com/maps]() and search for a
 general location. For instance, a great place to walk dogs in New York City is
 `Prospect Park, Brooklyn, NY`.
 
